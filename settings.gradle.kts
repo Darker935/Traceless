@@ -14,7 +14,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Traceless Unlocked"
+rootProject.name = "Traceless"
 include(
     ":module"
 )
