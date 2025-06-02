@@ -1,0 +1,7 @@
+id=${moduleId}
+name=${moduleName}
+version=${versionName}
+versionCode=${versionCode}
+author=xpray935 & darkerjz
+description=A Zygisk module to hide every single trace of Zygisk from the system.
+updateJson=https://mhmrdd.github.io/01000004/zygisk/traceless.json

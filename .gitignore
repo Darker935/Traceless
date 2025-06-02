@@ -1,11 +1,23 @@
+# IDE files
 *.iml
-.gradle
-/local.properties
 /.idea
 .DS_Store
+
+# Gradle & build output
+.gradle
 /build
+/module/build
+/module/release
 /captures
 .externalNativeBuild
 .cxx
+
+# Local configuration
 local.properties
+/local.properties
+
+# Submodules and external dependencies
+/module/src/main/cpp/external/libcxx
+
+# GitHub workflow updates
 .github/updates/
